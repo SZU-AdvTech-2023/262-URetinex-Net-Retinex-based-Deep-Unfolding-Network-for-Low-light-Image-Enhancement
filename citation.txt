@@ -1,0 +1,7 @@
+@inproceedings{REPO262,
+    author = "Wu, Wenhui and Weng, Jian and Zhang, Pingping and Wang, Xu and Yang, Wenhan and Jiang, Jianmin",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "5901--5910",
+    title = "{URetinex-Net: Retinex-based Deep Unfolding Network for Low-light Image Enhancement}",
+    year = "2022"
+}
